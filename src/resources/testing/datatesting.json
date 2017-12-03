@@ -1,0 +1,2080 @@
+[
+  {
+    "POS":"bulan",
+    "testcase":[
+      {
+        "text":"Bahkan uang sewa bulan terakhir kabarnya juga belum dibayar.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Sekitar bulan Mei lalu, korban datang dan bertemu dengan pelaku di salon miliknya di kawasan Semboro.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Dia masih tinggal sekitar 2 bulanan, sebelum akhirnya pergi meninggalkan kontrakan, tanpa pamit kepada pemilik rumah.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Willy menerangkan pinjaman itu dilunasi dalam jangka waktu 2 bulan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Dikerjakan selama tiga bulan, motor skutik racikan Oki Rahmola ini siap membuat Anda semangat dalam perjalanan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Dari data uang beredar BI per Juli 2017 bunga kredit perbankan tercatat 11,73% lebih rendah dibandingkan periode bulan sebelumnya 11,77%.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Selama 3 hingga 4 bulan, warga di Rusunawa Penjaringan Sari 1 dan 2 bersih-bersih dan perbaikan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Karena peluang berkoalisi dengan SPD tertutup, proses Merkel membangun koalisi baru diperkirakan akan memakan waktu berbulan-bulan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Wenger bulan lalu menyebut kalau Liga Inggris mulai mengalahkan Liga Champions dalam hal daya pikat.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Kejadian itu pun diketahui terjadi pada bulan Maret tahun lalu, tapi Sabina baru melayangkan tuntutannya baru-baru ini.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Traveler bisa melihat cantiknya bunga tanaman yang mekar di setiap bulan Mei ini.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Mendagri sangat kecewa dengan kasus OTT di tiga bulan terakhir ini.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Dalam satu bulan, para pelaku mampu membuat 20 paspor.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Mengandung si kecil kurang lebih 9 bulan lalu melahirkan, pastinya ada perubahan yang dialami tubuh seorang ibu.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Pada bulan Juli 2017, kelompok tersebut mengklaim telah mendistribusikan poster berbahasa China di Melbourne.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Kepada wartawan, dia mengaku tak punya masalah serius dengan sang istri yang baru dinikahi selama 6 bulan ini.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Produk itu akan segera diluncurkan oleh Nikuta Mirzani pada bulan Oktober mendatang.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Iya Bun, karena dari umur 3 bulan, anak sudah bisa dikenalkan dengan buku. Mereka bisa mengenal bahwa sebuah buku ada ceritanya.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Menurut pengakuan, pelaku baru beroperasi selama tujuh bulan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Saat ini ia mengaku sedang menikmati fase bulan madu dan belum mempersiapkan diri untuk menghadapi pertarungan selanjutnya.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Travis dan Rousey menikah bulan Agustus lalu di Amerika Serikat.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Pepat kuku seperti bulan tiga hari.",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"Bulan jatuh dalam ribaan.",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"Seperti pungguk merindukan bulan.",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"si cebol hendak mencapai bulan (bintang).",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"Dahi sehari bulan.",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"Bulan naik, matahari naik.",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"Bagai bulan dengan matahari.",
+        "sense":"bulan-3"
+      },
+      {
+        "text":"Bulan adalah satelit alami Bumi satu-satunya dan merupakan bulan terbesar kelima dalam Tata Surya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bulan adalah benda langit yang paling terang setelah Matahari.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Misi berawak ke Bulan pada masa depan telah direncakan oleh berbagai negara, baik yang didanai oleh pemerintah atau swasta.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bulan menyelesaikan orbit lengkap mengelilingi Bumi setiap 27,3 hari sekali (periode sideris).",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Orbit Bulan diperturbasi oleh Matahari dan Bumi dalam cara yang halus dan kompleks.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Ukuran Bulan relatif besar jika dibandingkan dengan ukuran Bumi, yakni seperempat dari diameter dan 1/81 dari massa Bumi.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Waktu yang dibutuhkan oleh Bulan untuk berputar pada porosnya kira-kira sama dengan waktu yang dibutuhkan untuk mengorbit Bumi.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bagian pinggir bulan purnama tampak sama terang dengan bagian tengahnya, tanpa pengelaman tungkai, karena sifat reflektif dari tanah Bulan, yang merefleksikan lebih banyak cahaya ke arah Matahari daripada ke arah lainnya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Ketinggian Bulan di langit bervariasi, meskipun memiliki batas yang hampir sama dengan Matahari, ketinggiannya berubah seiring dengan fase Bulan dan perubahan musim dalam setahun, dengan ketinggian tertinggi terjadi saat bulan purnama pada waktu musim dingin.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Terdapat perdebatan mengenai apakah permukaan Bulan berubah dari waktu ke waktu.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Sebaliknya, gerhana bulan terjadi saat bulan purnama, ketika Bumi berada di antara Matahari dan Bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Orbit Bulan yang mengelilingi Bumi mengalami inklinasi sekitar 5° dari orbit Bumi mengelilingi Matahari, sehingga gerhana tidak terjadi pada setiap bulan baru dan bulan purnama.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Gerhana bulan adalah peristiwa terhalanginya cahaya matahari oleh bumi, sehingga tidak sampai ke bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Gerhana bulan sebagian akan menghiasi langit Indonesia pada peralihan 7 ke 8 Agustus 2017.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Adapun Gerhana Matahari adalah peristiwa terhalangnya cahaya Matahari oleh Bulan sehingga tidak semuanya sampai ke Bumi dan selalu terjadi pada saat fase bulan baru.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Gerhana Bulan adalah peristiwa ketika terhalanginya cahaya Matahari oleh Bumi sehingga tidak semuanya sampai ke Bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Gambaran penampakan bulan saat puncak gerhana terekam dari berbagai wilayah di Indonesia pada Selasa dini hari.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bulan dengan wajah itu bisa dilihat dengan mata telanjang, tak perlu alat bantu.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Sementara, satu gerhana bulan lainnya cuma gerhana penumbra sehingga tak kasatmata.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Foto-foto fase terjadinya gerhana bulan sebagian itu terekam dengan baik oleh fotografer Antara.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Gerhana Bulan Parsial ini dapat diamati dengan mata telanjang dan tidak berbahaya sama sekali.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Peristiwa yang merupakan salah satu akibat dinamisnya pergerakan posisi Matahari, Bumi, dan Bulan ini hanya terjadi pada saat fase purnama dan dapat diprediksi sebelumnya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Sebelum kompetisi kasta tertinggi itu berakhir, para klub-klub harus melewati tahapan bulan Ramadan yang kemungkinan jatuh pada akhir Mei hingga Juni.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Sebab, Risha ingin berkomunikasi kembali dengan perwakilan klub ketika bulan Ramadan akan datang.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Ada tiga pemain Liga 2 yang diberikan hukuman larangan bermain selama dua bulan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Pemain Persiraja Sdr. Ferry Komul dikenakan sanksi larangan beraktifitas sepak bola di lingkungan PSSI selama 2 bulan karena menyiram air ke wasit.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Liga Inggris telah melewati bulan Agustus dan telah menyelesaikan tiga pekan pertama.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Menurut peforma individu salama tiga pekan, operator Premier League telah memilih tujuh kandidat peraih gelar pemain terbaik bulan Agustus.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Tujuh pemain telah dinominasikan untuk penghargaan Player of the Month Liga Inggris, bulan Agustus 2017.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Pelatih Chelsea, Antonio Conte menyabet gelar Pelatih Terbaik Liga Inggris Bulan Desember.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Sebelumnya, pelatih asal Italia itu juga menjadi Pelatih Terbaik bulan November dan Oktober 2016.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Bulan Ramadan tahun ini, memiliki berkah tersendiri bagi artis peran sekaligus penyanyi Prilly Latuconsina.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Bulan Ramadan ini lumayan melelahkan buat aku. Karena aku rutin isi acara sahur dan aku juga ada kerjaan di siangnya.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Presiden menjelaskan bahwa evaluasi menteri dilakukan setiap minggu bahkan setiap bulan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Cak Imin, setuju dengan pernyataan Presiden Joko Widodo tentang enam bulan terakhir yang sia-sia.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Ia mengatakan bahwa sudah cukup apa yang terjadi selama enam bulan terakhir.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Untuk mengantisipasi hal-hal yang tidak diinginkan, Cak Imin mengimbau semua pihak untuk tidak menggelar pengumpulan massa setidaknya sampai tiga bulan ke depan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Sudah enam-delapan bulan ini tabungan energi kita habis untuk hal yang tidak berguna sama sekali.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Pelatih Reading, Jaap Stam meraih gelar pelatih terbaik di kasta kedua Liga Inggris bulan Januari 2017.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Presiden Joko Widodo memberikan apresiasi kepada jajaran Polri yang mampu mengamankan jalannya Bulan Suci Ramadhan dan Lebaran Tahun 2017.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Polri menurut Jokowi telah berhasil menjaga stabilitas harga bahan pangan di bulan Ramadhan dan menurunkan angka kecelakaan pada saat pelaksanaan mudik lebaran.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Lima fakta banjir besar 21 tahun silam, ketika Jakarta separuh tenggelam di bulan puasa.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Diprediksikan intensitas hujan pada bulan Februari akan tinggi hingga sangat tinggi, khususnya berpeluang terjadi di sebagian Sumbar, Jambi, Sumsel, Bengkulu, Lampung, seluruh Jawa, Bali, NTB, NTT, Sulsel, Sulbar, Sulteng, Sultra, Papua dan Papua Barat.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Federasi Sepak Bola Indonesia (PSSI) rencananya akan menggulirkan ajang turnamen Piala Presiden 2017 pada bulan Februari.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Pre-seasonnya bulan Februari.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Arema FC resmi akan memindahkan sementara kandang mereka di Liga 1 selama bulan Ramadan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Selama bulan puasa, Arema pindah kandang ke Stadion Gajayana.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Hal ini karena bulan kelahiran mempengaruhi segala sesuatu mulai dari kecerdasan hingga panjangnya usia.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Anak yang lahir bulan Desember lebih mungkin menjadi dokter gigi.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Anak yang lahir bulan Januari lebih sulit jadi dokter gigi tapi cenderung menjadi debt collector.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Anak yang lahir bulan Februari kemungkinan besar menjadi seniman.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Anak yang lahir bulan April dan Mei memiliki pekerjaan yang lebih bervariasi.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Anak yang lahir di bulan-bulan musim panas memiliki kemungkinan lebih rendah untuk menjadi pemain sepakbola, dokter gigi atau dokter.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Nah, kini ada penelitian lain yang mengaitkan bulan kelahiran dengan kecerdasan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Penghina Jokowi dan Kapolri diancam hukuman penjara satu tahun enam bulan.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"(Pelaku) sudah dijerat dengan pasal 207 KUHPidana tentang penghinaan, dihukum selama 1 tahun 6 bulan penjara.",
+        "sense":"bulan-2"
+      },
+      {
+        "text":"Ada lebih banyak air di bulan daripada yang kita duga sebelumnya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Namun, para ilmuwan tidak dapat memastikan apakah sampel Apollo tersebut bersifat unik ataukah banyak bantalan air lainnya yang memenuhi bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Hasilnya, terdapat endapan vulkanik yang luas, yang menunjukkan bahwa materi di dalam bulan lebih basah dari yang diperkirakan sebelumnya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Pada tahun 2009, NASA menabrakkan sebuah roket dan satelit ke sebuah kawah di kutub selatan bulan, dengan harapan bisa mendapat bukti tambahan mengenai air bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Peristiwa itu terjadi pada tahun 1969 ketika Apollo 10 mengorbit bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Betapa pun, bulan tidak memiliki medan magnet dan tak memiliki cukup atmosfer untuk menghasilkan suara-suara itu.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Michael Collins, pilot Apollo 11, mengatakan dia juga mendengar suara-suara saat terbang di sekitar sekitar sisi gelap bulan tapi diberitahu oleh para insinyur bahwa itu hanya interferensi radio.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bahwa suara-suara itu muncul ketika kedua radio dihidupkan di kedua modul dan berada dekat satu sama lain, tapi berhenti ketika modul mendarat di bulan dengan Neil Armstrong dan Buzz Aldrin di dalamnya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Semenjak itu, para ahli geologi mulai mencurigai bahwa bulan memiliki waduk tersembunyi yang terkunci di bebatuannya.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Menurut Francis McCubbin, ahli geologi, semua air di bagian dalam bulan sama dengan lautan seluas halaman yang menutupi seluruh permukaan bulan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Filsuf Aristoteles dan Pliny the Elder berpendapat bahwa bulan purnama menularkan kegilaan pada orang-orang yang rentan.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Mereka percaya bahwa otak manusia, yang sebagian besarnya terdiri dari air, dipengaruhi oleh Bulan yang menguasai pasang surut, tetapi gravitasi Bulan terlalu kecil untuk memengaruhi satu orang.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bahkan saat ini, orang-orang percaya bahwa pasien rumah sakit jiwa, kecelakaan lalu lintas, kasus pembunuhan atau bunuh diri akan meningkat pada saat bulan purnama, meskipun tidak ada bukti ilmiah yang mendukung pernyataan tersebut.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bulan berada pada rotasi sinkron; waktu yang dibutuhkan oleh Bulan untuk berputar pada porosnya kira-kira sama dengan waktu yang dibutuhkan untuk mengorbit Bumi.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Bulan memiliki albedo yang sangat rendah, dengan tingkat kecerahan yang sedikit lebih terang dari aspal hitam.",
+        "sense":"bulan-1"
+      },
+      {
+        "text":"Selain itu, konstansi warna pada sistem visual Bulan mengkalibrasi hubungan antara warna objek dan sekitarnya, karena langit di sekitar Bulan relatif gelap, Bulan yang diterangi Matahari tampak sebagai benda langit yang terang.",
+        "sense":"bulan-1"
+      }
+    ]
+  },
+  {
+    "POS":"buah",
+    "testcase":[
+      {
+        "text":"Aksi CR7 men-juggling buah jeruk.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah jeruk selama ini dianggap sebagai sumber vitamin C terbaik.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Air buah jeruk nipis dapat digunakan sebagai penyedap masakan, minuman.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Selama September-Desember, harga buah jeruk akan turun drastis.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Pengunjung diberi pisau, tempat sampah, dan tas plastik jika mereka ingin membawa pulang buah jeruk.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Kelompok pertama diberi hidangan jeruk bali dengan daging buah berwarna merah selama 30 hari berturut-turut.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah mangga digunakan untuk es campur.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Membuat rujak biasanya menggunakan buah mangga.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Kandungan likopen pada jeruk bali cukup tinggi, yaitu 350 mikrogram per 100 gram daging buah.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Peneliti menjelaskan, limonin merupakan senyawa khas yang terdapat pada buah jeruk.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Mengonsumsi buah jeruk secara rutin dapat membantu mengurangi risiko stroke.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Ada kemungkinan bahwa flavanone dalam buah jeruk meningkatkan fungsi pembuluh darah atau mengurangi peradangan.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Pertama kali mengetahui bahwa pohon jeruknya memiliki dua jenis buah sekitar tiga bulan lalu.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Ada dua cara menghitung harga yang diberlakukan oleh penjual buah durian di Indonesia.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah durian biasanya digunakan sebagai jus.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Menikmati lezatnya buah durian sambil belajar merawat durian yang baik dan benar.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah anggur yang sudah populer di masyarakat Indonesia memberi manfaat bagi para penderita hipertensi.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Penderita insomnia atau susah tidur, ternyata bisa terbantu agar mudah memejamkan mata dengan buah anggur ini.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Bahwa nutrisi dalam buah anggur mampu melindungi bagian otak yang berkaitan dengan memori terhadap kerusakan.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Minuman wine produksi Hatten Winery sebagian besar berasal dari buah anggur lokal yang dipetik petani.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Dua Eks Anak Buah Emirsyah Satar Dicegah ke Luar Negeri.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Dari Buah Bintaro, Mahasiswa Malang Buat Bioetanol.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Balai karantina larang buah impor masuk ke Bandara Adisutjipto.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Kebanyakan buah impor yang ada di DIY berasal dari Pelabuhan Tanjung Perak, Surabaya.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Meningkatkan daya saing buah lokal disamping meningkatkan kesejahteraan dan peningkatan produksi petani buah dalam negeri.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Taman Wisata Mekarsari, Bogor, Jawa Barat menawarkan imaginasi negeri dongeng di tengah kebun buah.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Mantan Anak Buah Jokowi di Balai Kota Melamar Jadi Kepala Setpres.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Tak kurang dari 20 orang pekerja dengan hati-hati memetik buah yang menjadi salah satu ikon Selandia Baru itu.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Keduanya adalah Hadinoto Soedigno dan Agus Wahjudo yang merupakan eks anak buah Emirsyah Satar di Garuda Indonesia.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Kurangi Impor, Mensos Galakkan Program Tanam Buah Unggulan.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Kejagung Tetapkan Anak Buah Alex Noerdin sebagai Tersangka.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Pertemuan tertutup antara Sandiaga dan Sylviana berlangsung di sebuah restoran di kawasan Jakarta Selatan, Kamis malam.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Sebagai penikmat durian, Irfanto Oeij, sudah mencecap nyaris seluruh varian buah tersebut di berbagai bagian Tanah Air.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Festival buah lokal dan kuliner kini menjadi daya tarik wisata baru Banyuwangi, Jawa Timur.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Masalah utama perdagangan buah adalah ketidakmampuan Indonesia mengisi pasar lokal dan ekspor.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Setelah apel pagi dan apel sore, personel Satuan Lalu Lintas Polres Parepare diwajibkan makan buah pepaya.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Karena sudah menjadi kebiasaan, keluarga dan temannya juga terbiasa tidak menerima buah tangan darinya.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Pertumbuhan sepeda motor yang terkesan tak terkendali adalah buah dari ketidakkonsistenan mereka.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Karena diduga meledakkan bom panci di sebuah rumah kontrakan di Kecamatan Buah Batu, Kota Bandung.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Beberapa tahun mendatang, warga Jakarta berkesempatan pesta buah gratis.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah pokok dari pembicaraan.",
+        "sense":"buah-3"
+      },
+      {
+        "text":"Buah percakapan.",
+        "sense":"buah-3"
+      },
+      {
+        "text":"Johnny jadi buah percakapan karena menembus pasar secara menakjubkan.",
+        "sense":"buah-3"
+      },
+      {
+        "text":"Bahan pokok dapur sebagai bahan buah percakapan.",
+        "sense":"buah-3"
+      },
+      {
+        "text":"Akibat kelakuan nakalnya, Budi menjadi buah bibir di masyarakat sekitar rumahnya.",
+        "sense":"buah-3"
+      },
+      {
+        "text":"Buah hasil dari pembicaraan masyarakat.",
+        "sense":"buah-3"
+      },
+
+      {
+        "text":"Diminta KPK untuk menganalisa dan menangani dua buah sample dari ucapan penyadapan dan rekaman pemeriksaan KPK terhadap UTG dan Ayin.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Bakri kerap menyiapkan buah pepaya untuk anggota Satuan Lalu Lintas Polres Parepare.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Secara umum buah pepaya memang memiliki manfaat dan nilai gizinya besar bagi kesehatan.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Pepaya sudah dikenal sebagai buah yang kaya manfaat bagi kesehatan.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah alpukat biasanya digunakan untuk jus.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah pepaya tidak mengenal musim sehingga petani dapat terus panen.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah pepaya memiliki kadar serat yang tinggi.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah alpukat belakangan ini semakin populer.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Manfaat buah alpukat untuk kesehatan sudah dikenal sejak lama.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Sebelumnya banyak yang menyangsikan alpukat dapat menurunkan kolesterol karena buah ini tinggi lemak.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah alpukat biasanya digunakan untuk membuat es campur.",
+        "sense":"buah-1"
+      },
+      {
+        "text":"Buah jatuhnya tidak jauh dari pohonnya.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Buah hasil kerja tidak bakalan mengecewakan ",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Buah hasil menabung kini dinikmati oleh anaknya.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Tidak butuh waktu lama bagi Kuntajaya Ahmad, untuk dapat merasakan buah kerja kerasnya.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Perbuatan dari hasil jahat tidak dapat mendapatkah buah hasil yang baik.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Sekarang dia menikmati buah karma dari hasil perbuatannya.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Bila kita pergi ke bali jangan lupa membeli buah tangan yang ada dipasar sukawati.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Seorang pengusaha sukses membuat lukisan untuk buah hatinya.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Buah hati.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Buah perbuatan.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Berencana mencari batu akik berwarna biru sebagai buah tangan untuk para Kepala Negara peserta peringatan 60 tahun Konferensi Asia Afrika di Bandung.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"5 buah batu berukuran sedang tadi disusun berjajar ke belakang.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Sekarang, satu perusahaan paling-paling hanya bisa menjual 1.000 buah batu bata.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Panitia melakukan pemeriksaan dan penghitungan dan memutuskan Kerim telah  menghancurkan  111 buah batu bata.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Buah batu akik untuk dijadikan cincin.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Dari beberapa stan yang dikelilingi, istri Dubes India membeli satu buah batu akik untuk dijadikan liontin.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Saat memasuki goa ini, maka pengunjung terlebih dahulu harus membungkuk dan menemukan dua buah batu yang tergantung.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Kecamatan Margacinta dipecah menjadi Kecamatan Buah Batu",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Ini adalah dua buah batu busur Roma yang berasal dari Gamla, dari kawasan pemukiman penduduk.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Setelah evakuasi yang cukup rumit, petugas yang berhasil mengangkat korban dikagetkan dengan penemuan dua buah batu bata.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Secara tidak sengaja meledak di rumah kontrakannya sendiri di Kampung Kubang Bereum, Sekejati, Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Membuat kerajinan di buah batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Polisi menangkap seorang perampok bersenjata api rakitan yang sedang menjalankan aksi kejahatannya terhadap pengemudi di Tol Padaleunyi, Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Di sela-sela Rakernas, PAN juga menggelar kegiatan Sarapan Pagi Bersama Bang Zul di Area CFD Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Memerintahkan jajarannya untuk melakukan operasi yustisi secara intensif, menyusul meledaknya bom panci di Kecamatan Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Kasus bom panci di Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Para pelaku mengincar sejumlah tempat yang dihuni polisi, seperti Polda Jawa Barat, Polres Cianjur, pos lalu lintas di Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Komplotan teroris bom panci yang meledak di sebuah rumah kontrakan Kecamatan Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Terduga teroris yang terlibat dalam ledakan bom panci di daerah Buah Batu.",
+        "sense":"buah-5"
+      },
+      {
+        "text":"Di atas meja terdapat tiga buah batu yang disusun oleh Bung Karno.",
+        "sense":"buah-2"
+      },
+      {
+        "text":"Anak buah membuat pekerjaan ringan.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Selain tukang ojek, Doni menyasar pedagang kaki lima dan anak buah kapal.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Rekaman yang diputar berisi percakapan antara Evy dan anak buah Kaligis bernama Yulius Irawansyah alias Iwan pada 3 Juli 2015. ",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Gubernur DKI Jakarta Basuki Tjahaja Purnama mengaku tidak langsung mempercayai seluruh rekomendasi pimpinan satuan kerja perangkat daerah SKPD DKI ketika akan memecat anak buah mereka.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Dalam sidang tersebut, dihadirkan tiga saksi, yaitu dua anak buah.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Beberapa rekaman telepon terjadi antara anak buah.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Keduanya anak buah Siti Hartati Murdaya, pemilik PT Hardaya Inti Plantations, yang juga anggota Dewan Pembina Partai Demokrat.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Yose menjelaskan, keunggulan Gita di sisi jumlah netizen unik ini merupakan buah dari pengunduran diri Gita sebagai Menteri Perdagangan.",
+        "sense":"buah-4"
+      },
+      {
+        "text":"Kaligis meminta anak buahnya, Yenny Octorina Misnan membagi uang tersebut dalam lima amplop yang berbeda.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Rudi Rubiandini disebut pernah meminta kepada mantan anak buahnya, Gerhard Marten Rumeser, untuk menyiapkan sejumlah uang.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Agung mengatakan, nahkoda dan anak buah kapal melompat melarikan diri ke dalam hutan bakau dengan membawa dokumen paspor delapam WN Somali.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Bapak ketika itu dibawa ke rumah makan padang dan dipaksa mengakui sebagai anak buah Freddy Budiman.",
+        "sense":"buah-6"
+      },
+      {
+        "text":"Sebastian beranggapan, tindakan yang dilakukan anak buah SBY di parlemen itu justru kontradiktif dengan keinginannya bertemu Jokowi.",
+        "sense":"buah-6"
+      }
+    ]
+  },
+  {
+    "POS":"kursi",
+    "testcase":[
+      {
+        "text":"Partai politik, terutama yang memiliki kursi di DPR merupakan unsur legislatif sebagai pembuat undang-undang.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Djaso yang menjadi salah satu penyumbang ide pembuatan kursi raksasa ini menyebutkan, kursi raksasa melambangkan satu kedudukan yang paling tinggi.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Jangankan menjadi perempuan pemimpin, di kursi parlemen seperti DPR pun angka perempuan yang berhasil masuk pun sangat minim.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Pelatih Persib Bandung Djadjang Nurdjaman mengungkapkan alasan di balik keputusannya untuk mundur dari kursi pelatih kepala Persib sesaat setelah timnya kalah.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Tanpa adanya mekanisme yang jelas, maka penetapan jumlah kursi DPR kerap kali sarat kepentingan politik.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Sedemikian hebat dan istimewanya sebuah kursi ketua umum partai, sehingga nyaris semua anggota partai berkeinginan mendudukinya, bagaimana pun jalannya.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Lantaran posisinya yang mentereng itu, biaya yang dikeluarkan untuk mendapatkan kursi ketua menjadi sedemikian mahal.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Raffi Ahmad isi kursi jabatan bendahara umum Parfi 56.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Politisi Partai Hanura Yuddy Chrisnandi menilai, tidak ada masalah terkait keputusan Presiden Joko Widodo mengurangi kursi menteri untuk Hanura.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":" Kursi pimpinan Dewan Pimpinan Daerah (DPD) menjadi perebutan anggota-anggota di dalamnya. ",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Bukan urusan kerja mengurusi aspirasi rakyat, tetapi urusan kursi pimpinan.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Ia mengatakan, hukum formil kursi Ketua DPR milik Golkar.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Upaya perebutan kursi pimpinan DPD sudah terjadi sejak 2009.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Sohibul akan tetap memproses pergantian kursi Wakil Ketua DPR RI yang diduduki oleh Fahri.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Kelima kursi itu dikhususkan untuk daerah pemekaran baru yakni Kalimantan Utara.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Dia membantah bahwa tatib itu sengaja ditujukan untuk menggoyang kursi ketiga pimpinan DPD saat ini.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Hal ini disampaikan Mulfachri menanggapi kericuhan yang sempat terjadi di DPD terkait perebutan kursi pimpinan lembaga itu.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Hampir semua parpol menginginkan kursi ketua DPR dan MPR periode 2014-2019.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Sekretaris Jenderal PDI Perjuangan Hasto Kristianto menilai suatu hal yang wajar jika partai politik yang berkuasa mendapat jatah kursi menteri.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Penyebabnya, kata dia, partai-partai di KMP lebih mementingkan kursi dan jabatan daripada kepentingan ideologis.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Akibatnya, semakin banyak kursi jabatan di jajaran Pemprov DKI Jakarta yang kosong.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Ketua DPR RI Ade Komarudin membantah jika pimpinan DPR melindungi Fahri Hamzah untuk tetap duduk di kursi Wakil Ketua DPR.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Pria asal Pare-Pare itu tak mungkin duduk di kursi RI 1 jika tak ada kerusuhan Mei atau tekanan dari mahasiswa yang cukup dahsyat terhadap Soeharto.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Wacana pengembalian kursi Ketua DPR kepada Setya Novanto terus bergulir.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Boy tercatat pernah menduduki kursi Wakil Ketua lalu Ketua DPC PDI-P Jakarta Selatan pada 2005.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Semua kursi pimpinan komisi juga diborong KMP.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Tantowi tak menampik, peluang partainya mendapatkan kursi ketua DPR terbuka lebar.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Adapun Novanto mundur dari kursi ketua DPR pada Desember 2015, karena tersangkut kasus.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Menuntut DPR RI dalam kedudukan dan kapasitasnya memastikan kursi gubernur DKI Jakarta tidak diduduki orang yang korup dan menghalalkan segala cara, tutup Ratna.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Pemulihan nama baik Novanto oleh MKD sekaligus menjadi titik awal kembalinya Novanto ke kursi Ketua DPR.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Banyaknya kursi jabatan kosong karena ditinggal pensiun.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Setelah Agustus nanti beberapa pejabat eselon dua sampai empat juga pensiun, sehingga kursi jabatan kian banyak yang kosong.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Selain itu, kata Jhonny, usulan lainnya datang dari Fraksi Golkar yang meminta jumlah kursi wakil ketua komisi ditambah, dari yang sebelumnya 1 orang menjadi 2 orang.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"1 kursi jabatan diperebutkan oleh 9 calon, sementara untuk posisi lurah rasionya.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Alasannya karena PPP merasa tak dihargai oleh KMP setelah tidak mendapat kursi pimpinan DPR/MPR.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Lagi, Rapat paripurna DPD ribut soal kursi pimpinan.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Untuk mengisi kekosongan kursi jabatan wakil wali kota, partai pengusung mengusulkan dua calon untuk dipilih 29 anggota DPRD Kota Madiun.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Farouk Muhammad merasa kursinya sebagai Wakil Ketua DPD sudah digoyang sejak lama.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Dari jumlah kursi yang tersedia, jabatan calon Kepala Pelayanan Terpadu Satu Pintu (PTSP) Kelurahan yang paling banyak diminati pejabat.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Belakangan, DPD justru ricuh karena berebut kursi pimpinan.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Seperti diketahui, Nurul Arifin telah menyatakan diri untuk maju mencalonkan diri memperebutkan kursi jabatan Wali Kota Bandung 2018-2023 mewakili Partai Golkar.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Mantan Ketua DPR Akbar Tandjung menilai, usulan penambahan kursi pimpinan MPR dan DPR yang diajukan Fraksi PDI Perjuangan cukup rasional.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Kendati demikian, dia juga belum memutuskan apakah akan maju atau tidak dalam perebutan kursi ketua umum.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Keduanya memperebutkan satu kursi jabatan yakni Anggota OJK Bidang Edukasi dan Perlindungan Konsumen.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Padahal, kata dia, DPR yang pada awal periode juga sempat berebut kursi pimpinan kini sudah mulai fokus bekerja.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Begitu ada arus politik, kursi pimpinan menjadi begitu strategis.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Fahri mempersilakan jika ada pihak-pihak yang ingin mengambil kursi pimpinan yang kini ia duduki.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Dengan situasi internal DPD yang meributkan kursi pimpinan, cita-cita penguatan lembaga DPD seolah mustahil untuk dicapai.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Gerindra, yang tak mendapatkan kursi pimpinan, sejauh ini tetap solid dan akan mendukung paket ini.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Namun, setelah itu Ade pun menyinggung kisruh perebutan kursi pimpinan DPD yang terjadi belakangan ini.",
+        "sense":"kursi-2"
+      },
+      {
+        "text":"Kursi itu bentuknya sangat unik.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi peninggalan kakek.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kamu bisa pakai kursi warna hitam yang ada di didepan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi unik sering kita jumpai dijual di daerah ketewel bali.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi roda bermesin diciptakan untuk memudahkan penggunanya.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi tempat duduk presiden dirancang khusus agar bisa senyaman mungkin saat di duduki.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi yang dipakai dikampus ini sudah mulai rusak.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Masih tersisa lima kursi untuk duduk.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Saat berpoto siswa yang lebih pendek berada di belakang dan menggunakan kursi sebagai injakan agar terlihat lebih tinggi.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi ini cocok untuk meja makan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Sebuah kursi beserta meja peninggalan raja arthur dilelang.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi dengan desain sederhana.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Anto si pembuat kursi untuk keperluan tempat duduk untuk stadion gbla.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Mengidap penyakit ambien hanya bisa duduk di kursi selama empat menit.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi biasa bisa disulap menjadi keren dan menarik.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Biasanya kursi atom lebih mudah patah dari kursi kayu.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kita bisa duduk di  kursi yang di belakangnya terdapat ratusan bendera negara.",
+        "sense":"kursi-1"
+      },{
+        "text":"Kursi jenis ini hanya ada lima di dunia.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Adi sedang duduk di atas kursi sambil makan camilan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi ini hanya bisa di duduki oleh satu orang.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Tersangka saat ini duduk di kursi yang berada di tengah pengadilan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Narapidana berhasil kabur dengan membobol fentilasi yang ada di ruangan dan menggunakan kursi sebagai alat bantu.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Jojo bisa membuat kursi yang lebih baik dari itu.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Sudah di sediakan dua buah kursi spesial untuk pengantin baru.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Salah satu siswa nakal menaruh permen karet bekas kunyahan di atas kursi tempat duduk sang guru.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi ini selain bisa di duduki juga bisa dilipat dan di satukan dengan kursi lain sebagai meja.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Ukiran yang ada pada kursi membuat nilainya meningkat lebih tinggi.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Berbisnis kursi kayu sangat menguntungkan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Seorang petani mengaku kursi rombengnya pernah diduduki orang penting di daerahnya.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi tempat duduk yang paling menegangkan di pesawat adalah pada bagian tengah yang berdampingan langsung dengan jendela darurat.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Menikmati pagi sambil duduk dikursi minum teh dan makan kue.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Mahasiswa tersebut membanting kursi tempat duduknya setelah di tegur oleh dosennya.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Untuk dapat duduk di kursi salah satu restaurant terkenal anda harus merogok kocek sebesar seratus ribu rupiah.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Pasangan suami istri berpoto berdampingan sambil duduk si atas kursi.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi yang dulunya sangat indah dan nyaman sekarang sudah rusak tidak terurus.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi yang nyaman di buat menggunakan alas spoon yang empuk.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Sebaiknya tinggi kursi belajar di desain lebih pendek dari mejanya.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Para pengunjuk rasa melempari polisi dengan menggunakan kursi besi.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Andi terjatuh dari kursi karena mengantuk saat mengikuti pelajaran.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi kantor biasanya didesain khusus agar bisa berputar.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi besi sengaja di buat lebih miring agar mahasiswa lebih nyaman saat mendudukinya.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Kursi kantoran kalau dibeli secara lusinan biasanya akan mendapat potongan harga.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Jasa penyewaan kursi untuk acara pernikahan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Dibutuhkan sebanyak seratus lima puluh kursi untuk para undangan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Penderita patah kaki di anjurkan menggunakan kursi roda sebagai alat untuk membantu berpergian.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Seorang pria memberikan kursi tempat duduknya untuk seorang nenek.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Masyarakat pengguna jasa bus mengeluh karena tidak di sediakan kursi tempat duduk di sebuah halte di jakarta.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Sambil duduk di kursi dan memainkan gitar krisna terlihat sangat gagah dan tampan.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Sekarang warung internet di jl.sulawesi sudah disediakan tempat yang terbuka dengan kursi yang sangat nyaman untuk duduk sambil searching di internet.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Ada banyak kursi besi yang sudah tidak dipakai dan di tinggalkan di sekolah yang sudah tidak aktif.",
+        "sense":"kursi-1"
+      },
+      {
+        "text":"Dengan cara mengecat ulang dan menghiasainya dengan beberapa bahan yang unik kita bisa menyulap kursi besi agar lebih menarik minat pembeli.",
+        "sense":"kursi-1"
+      }
+    ]
+  },
+  {
+    "POS":"daun",
+    "testcase":[
+      {
+        "text":"Bila ranting dan daunnya terlalu lebat sehingga bambu tumbuh melengkung ke bawah karena berat, lakukan pemangkasan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun pohon palem, misalnya, berukuran jauh lebih besar dari semanggi.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun katuk selama ini banyak dimanfaatkan para ibu menyusui untuk meningkatkan produksi ASI.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun yang berukuran besar memiliki area yang luas untuk mencengkeram udara.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Tumbuhan yang dikenal pula dengan nama daun kaki kuda ini tumbuh merayap menutupi tanah.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun yakon dipercaya bisa mengobati penyakit diabetes.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Tanaman yakon termasuk anggota keluarga bunga matahari dengan daun mirip seledri yang dapat tumbuh hingga tiga meter.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun yakon kaya dengan insulin.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Potensi khasiat daun gedi diduga lebih dari sekadar penambah selera.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Semangkuk bubur manado yang kaya sayuran, rasanya tak lengkap tanpa daun gedi.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Hama bercak daun disebabkan jamur, menyerang tanaman padi petani di Kecamatan Jelbuk dan Arjasa, Jember, Jawa Timur.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Lahan tanaman padi yang terserang jamur bercak daun.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun kotor seringkali jadi masalah pada tanaman hias.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun tanaman akan tampak kembali segar dan mengilap",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun lemon biasanya digunakan sebagai zat makanan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Puluhan hektar tanaman jagung di Kabupaten Kediri, Jawa Timur diserang penyakit bulai daun yang disebabkan oleh jamur sclerospora maydis.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun sirih dikenal mengandung antiseptik dan zat aktif lain yang bermanfaat menghilangkan masalah bau badan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun mint mengandung mentol yang bersifat anestetik dan antiradang.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Penelitian Tanaman Rempah dan Obat (Balittro) Kementerian Pertanian, minyak yang disuling dari daun tanaman zodia mengandung linalool.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun tanaman Lili paris panjang dengan garis putih kekuningan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Tak disangka, pucuk daun pohon tersebut rupanya dicari oleh turis Timur Tengah, Arab khususnya, untuk dikonsumsi.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Sejumlah khasiat daun muda itu antara lain penambah vitalitas bagi pria, obat diabetes, dan obat diare.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Kualitas daun tembakau yang buruk ini tak urung membuat petani merugi jutaan rupiah per hektar.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Untuk area yang sedikit, seduh daun mint dan gunakan airnya untuk membasuh bagian tubuh yang gatal.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun katuk ternyata bukan satu-satunya makanan yang baik untuk ibu yang baru melahirkan, khususnya yang sedang menyusui.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun bayam boleh dibilang sayuran hijau yang paling bernutrisi.",
+        "sense":"daun-1"
+      },
+      {
+        "text":" Beberapa bahan alami ternyata bisa dimanfaatkan untuk melakuakn konservasi salah satunya adalah daun serai.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun jambu biji sudah sejak lama dipakai dalam pengobatan kuno untuk mengatasi berbagai penyakit.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun jambu biji juga bisa diolah menjadi berbagai makanan, misalnya diseduh seperti teh atau dibuat jamu godok.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun jambu biji terbukti bisa mencegah diabetes.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Konsumsi makanan yang mengandung asam folat tinggi, sayuran berwarna hijau terutama daun kelor.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun katuk merupakan sumber vitamin C yang sangat baik.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Penambahan antioksidan berupa daun bambu atau ekstrak teh hijau juga telah terbukti mengurangi level akrilamid pada pangan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun bawang punya banyak khasiat dengan kandungan sulfur di dalamnya, selain flavonoid yang merupakan zat pewarna hijau pada tumbuhan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Beberapa tanaman obat seperti temulawak, kunyit, atau daun pandan wangi bisa digunakan untuk menambah nafsu makan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Sayur-sayuran daun hijau merupakan sumber serat yang murah dan mudah, selain juga mengandung magnesium yang tinggi. ",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Endang mengambil zat aktif agen antimikroba dari bahan-bahan alami yang mudah didapat, antara lain kunyit, daun sirih, dan bawang putih.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun sirih kerap dipakai untuk berkumur, membunuh kuman atau mikroba di dalam mulut.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Selada daun memiliki berwarna hijau segar, tepinya bergerigi atau berombak, dan lebih enak dimakan mentah.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun oregano kering maupun segar biasa digunakan sebagai zat pada masakan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Makan lalapan dengan sambal terasi beserta nasi beraroma daun pandan yang masih hangat mengebul merupakan kenikmatan luar biasa bagi penggemar masakan Sunda.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun pandan wangi akan digunakan untuk menetralisasinya.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Dalam pengobatan tradisional Maroko, daun zaitun digunakan untuk menjaga kadar gula darah dan diabetes.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun kunyit biasanya disobek-sobek atau diikat dan dimasukkan dalam tumisan atau masakan.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Kembul Bujono adalah makan bersama dengan menggunakan daun pisang sebagai alasnya.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Nasi yang dibungkus daun jati ini merupakan bekal yang lazim saat itu karena irit dan awet.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Bentuknya agak panjang dan seperti daun bambu, tetapi tipis, dengan warna hijau muda.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Daun sirih juga dimanfaatkan untuk menjaga kebersihan gigi dan mulut dengan menyusurnya makan sirih.",
+        "sense":"daun-1"
+      },
+      {
+        "text":"Ia mengaku mendapatkan unit hunian yang tidak memiliki daun pintu.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Daun pintu tersebut jatuh mengenai kepala korban, dan korban meninggal di tengah perjalanan saat dibawa ke rumah sakit.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Lemari dapur tanpa daun pintu, atau yang lebih sering disebut dengan open cabinets, mulai menjadi solusi alternatif sebagai ruang penyimpanan.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Daun pintu juga bisa Anda manfaatkan sebagai tempat menyimpan bahan mentah dan bumbu dapur.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Alhasil, sekarang daun pintu di ruang sidang Tipikor tinggal satu dan petugas harus meningkatkan pengamanan agar pagar tunggal ini tetap berdiri tegak.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Jika memang terpaksa harus dibuka, gunakan door stop atau penahan pintu untuk mempertahankan posisi daun pintu agar tetap diam.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Tiba-tiba seorang santriwati melintas dan memegang daun pintu yang kemudian terbuka.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Pintu kayu dengan ukiran etnik bisa digunakan sebagai daun pintu dari gerbang ini.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Pihak kepolisian meledakkan daun pintu rumah tersebut dengan menggunakan bom berdaya ledak rendah.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Bagian terluar dari daun pintu, biasanya juga dipasang pada bodi.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Kayu kelapa bisa dijadikan kusen pintu, jendela dan usuk, bahkan banyak yang memanfaatkan kayu kelapa untuk daun pintu.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Kedua daun pintu ukuran raksasa yang berwarna kuning emas dipenuhi ornamen yang pelik.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Jika tak ada kendala terkait luasan ruang, sebaiknya daun pintu dipasang di sebelah kanan dan membuka ke dalam untuk menghindari benturan dengan aktivitas di luar.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Seorang pekerja yang ditemui di lantai 3, Rohim 40, mengatakan pintu bergulung tak berfungsi dengan baik karena karatan, daun pintunya sobek dan penyok.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Bahkan dua tahun daun pintu air tidak lagi ditutup.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Unsur Tionghoa terlihat pada beberapa daun pintu dan jendela kayu yang dicat warna hijau, merah, dan emas.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Dari gerbang masuk, saya langsung dihadapkan dengan dua daun pintu yang terbuka lebar.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Mengganti warna cat, mengganti daun pintu atau kusen, menambah bukaan, mengganti keramik lantai, memperbaiki instalasi listrik atau air adalah contoh-contoh renovasi berskala ringan.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Kemudian, ada juga foto-foto yang menunjukkan ikan tuna yang sebesar daun pintu.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Selain itu, juga bisa memanfaatkan material bekas atau daur ulang seperti kusen atau daun pintu.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Penutupan ini dilakukan untuk mendukung pekerjaan penambahan daun pintu air Ciliwung atau optimalisasi Kanal Banjir Barat.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Peserta yang mendapat tarikan cukup men yediakan lahan atau tanah, air bersih, kayu untuk kusen daun pintu dan jendela, serta membayar tukang.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Daun pintu rumah baghi terbuat dari satu keping kayu dengan engsel berupa sumbu yang terletak pada bagian atas dan bawahnya.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Pada sebuah rumah, aplikasi kayu tidak sebatas pada kusen jendela, atau daun pintu.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Bahkan, daun pintu pagar lipat ada yang lepas, padahal dari besi.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Daun pintunya dibuat dari tripleks yang dipelitur matt.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Dari daun jendela terlihat sepotong kemegahan pegunungan dengan udara sejuk yang masuk perlahan melalui ventilasi kamar.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Mengajak duduk tepat di bawah salah satu daun jendela Kafe Rumah Pohon yang terbuka lebar. ",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Salah satu rumah panggung itu rusak berat mulai dinding kayu hingga semua daun pintu dan jendela.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Beberapa sarana rusun seperti daun pintu, kamar mandi, dan cat tembok rusun sudah rusak.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Pergerakannya tak hanya di desain secara horizontal, tetapi dapat diterapkan pada daun pintu dengan posisi vertikal.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Kaca jendela dan daun pintu di Hargobinangun bergetar saking kerasnya akibat hentakan aktivitas Merapi.",
+        "sense":"daun-2"
+      },
+      {
+        "text":"Kelapa ini salah satu komoditas strategis yang sekarang lagi naik daun.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Panganan khas Cepu, Kabupaten Blora, Jawa Tengah, Ledre kini semakin naik daun.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Profesi ini tidak terdengar di era 1990-an, tapi saat ini pamor seorang Data Scientist tengah naik daun dengan bayaran tinggi.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Nama Huawei sendiri sedang naik daun di dunia smartphone.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Fujifilm belakangan naik daun di dunia fotografi digital melalui serangkaian produk kamera mirrorless dan compact bergaya retro",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Broner merupakan petinju yang tengah naik daun dan dapat menjadi ancaman terhadap supremasi petinju terbaik dunia.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Kini vendor-vendor smartphone dari Asia telah mulai naik daun dan ikut mengambil peran dalam pasar smartphone di dunia. ",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Jailolo beberapa tahun belakangan naik daun berkat adanya festival tahunan Festival Teluk Jailolo.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Kampung Trusmi di Kecamatan Plered, Kabupaten Cirebon, memang sedang naik daun karena produksi batiknya menembus selera konsumen dari kelas lokal hingga internasional.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Nama Mbappe naik daun setelah membukukan 26 gol dalam 43 penampilan di semua ajang 2016-2017.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Selain mobil tujuh penumpang multi porpose vehicle (MPV) yang umum, seperti Innova, Xenia, dan Avanza ternyata mobkas Alphard juga sedang naik daun.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Melihat industri game mobile yang sangat naik daun, perusahaan asal Jepang ini terpaksa putar otak, dan akhirnya mau memanfaatkan platform smartphone.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Harga saham emiten konstruksi bangunan tengah naik daun tahun ini.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Lenovo adalah salah satu vendor gadget yang belakangan naik daun.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Wisata ke Jepang memang tengah naik daun dua tahun belakangan ini bagi orang Indonesia.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Namun juga bakal menghadirkan dua pemain muda Indonesia yang sedang naik daun, yakni Amanda Rawles dan Jefri Nichol.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Selama bertahun-tahun, di kalangan korps diplomatik Prancis, Boris Boillon dikenal sebagai diplomat dengan bintang yang tengah naik daun.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Maskapai penerbangan swasta Vietnam yang sedang naik daun, VietJet Air dikabarkan akan masuk ke Indonesia.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Nama Lima mulai naik daun sejak gabung ke Santos pada 2014.",
+        "sense":"daun-3"
+      },
+      {
+        "text":"Ikan lele sedang naik daun di Kota Semarang, Ungaran, dan sekitarnya di Jawa Tengah.",
+        "sense":"daun-3"
+      }
+    ]
+  },
+  {
+    "POS":"akar",
+    "testcase":[
+      {
+        "text": "Akar pohon primbun dipinggir jalan mulai naik dan menembus trotoar hingga muncul ke permukaanya.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Jenis akar pohon kelapa adalah jenis akar serabut.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Akar tumbuhan yang diselimuti muselium hasil simbiosis dengan mikoriza menjadikan tanaman tahan terhadap menipisnya persediaan air didalam tanah sementara unsur hara pada tanah tetap terpelihara.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Sebuah riset terbaru yang dilakukan di Institut Pertanian Bogor (IPB) menunjukkan bahwa akar tumbuhan pasak bumi (Eurycoma longifolia) mempunyai khasiat melindungi organ hati dari kerusakan.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Apalagi saat dirinya mengisahkan perjalanan dirinya bersama sang istri, Joanna, mengelola tanaman rumput akar wangi (Vetiveria zizanioides) menjadi barang kerajinan.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Kami mengambil akar Tetrastigma dari habitat asli bunga patma di Pangandaran, yang kemudian disambung dengan akar Tetrastigma yang telah tumbuh di Kebun Raya Bogor dengan teknik grafting, kata Siregar di Bogor, Selasa.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Meski sudah tampak layu di atas permukaan tanah, ada kemungkinan akar tanaman tersebut masih bisa diselamatkan.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Akar lapuk yang terbawa air itu tiba-tiba menginspirasi Japuris Chan untuk berkreasi. Kisah yang melibatkan akar pohon itu lalu mulai bergulir hingga Japuris kemudian dikenal sebagai perajin akar.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Seledri (Apii graveolentis radix), akar seledri mengandung asparagin, pentosan, glutamin, tirosin, manit, zat pati, lendir, dan minyak atsiri.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Sirih gading dikenal dengan nama lolo munding/tali (Sunda), jalu mampang, sulang (Jawa) dan samblung (Bali) adalah tanaman merambat besar dengan batangnya yang bulat, berbulu, bagian pangkalnya sebesar lengan anak mempunyai akar-akar gantung yang panjang meliliti pohon.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Peneliti Universitas Andalas (Unand) Padang, Prof Dr HM Sanusi Ibrahim, menemukan zat tersebut pada sepuluh jenis tumbuhan tropis yakni daun gamal, daun kulit manis, daun juar, daun sicerek, daun inai, kulit buah jeruk, biji pinang sirih, akar pinang sirih, dan biji pinang sinawa.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Eksperimen yang diberi nama WAICO (Waving and Coiling of Arabidopsis Roots) untuk mempelajari pengaruh perbedaan gaya gravitasi dalam pertumbuhan akar tumbuhan.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Baru-baru ini para ilmuwan dari Max Planck Institute Berlin Jerman menemukan kandungan zat anti-diabetes yang disebut amorfrutin pada tanaman akar manis atau liquorice.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Untuk perawatan akar, jika tanah dalam pot sudah terasa padat dan keras, maka artinya pot sudah penuh dengan akar.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Ampedu tanoh (eurycoma longifolia jack) untuk obat malaria, akar kuduk kuya atau akar terperinggil (unidentifield) untuk obat diare berdarah.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Apalagi jika bukan karena bau menyengat yang menjadi aroma khas akar wangi.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Senyawa alkaloid ini terdapat di semua bagian tumbuhan kecubung, mulai dari akar, tangkai, daun, bunga, buah, hingga bijinya.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Bagian dari tanaman ini yang bisa dipakai untuk herbal meliputi akar, batang, dan daunnya.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Sebab, akar dari tanaman-tanaman tersebut akan mengeluarkan zat-zat organik yang berguna bagi kesuburan tanah.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Mikoriza abuskular adalah jamur yang banyak terdapat di akar pohon pinus dengan ikutannya bakteri rizosfer.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Pihak kepolisian menyatakan sudah menemukan akar dari permasalahan dari pengeroyokan seorang pemuda.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Apa Sebenarnya Akar Masalah Pajak Penulis yang Dikeluhkan Tere Liye.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Jokowi menilai akar masalah jatuhnya pesawat TNI AU ini harus segera diketahui.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Pernikahan sirih Dinilai sebagai Akar Masalah dari penutupan kedok untuk bisa melakukan seks bebas.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Kepala desa sedang mencari akar dari permasalahan konflik anatar desa yang terjadi.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Ketua Komisi Nasional Perlindungan Anak (Komnas PA), Arist Merdeka Sirait, mengatakan, pemerintah dan semua pihak harus segera mencari akar masalah terjadinya kekerasan seksual yang terjadi terhadap anak-anak.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Tujuan mengobarkan konflik horizontal ini adalah agar akar persoalan sebenarnya menjadi kabur dan tersamar.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Akar dari permasalahan yang terjadi di jakarta merupakanhasil dari editan video yang menghasut masyarakat.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Hubungan pendek arus listrik merupakan akar penyebab terjadinya kebakaran.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Akar permasalahan pada rambut yang rontok adalah rapuhnya rambut yang mengalami kekeringan akibat sering menggunakan catokan.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Terjadinya abrasi merupakan akar permasalahan yang belum dapat diselesaikan hingga saat ini.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Keseringan mengkonsumsi minuman bersoda merupakan akar penyebab terjadinya pengeroposan tulang.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Akar permasalahan yang menyebabkan samsung note tidak laku di pasaran adalah pada baterainya.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Konflik yang terjadi di daerah merupakan akar penyebab terpecahnya persatuan negara.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "CC yang besar merupakan akar penyebab borosnya suatu mesin kendaraan.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Sudah rapuhnya tembok penjara lapas merupakan akar penyebab kaburnya tahanan narkoba yang bisa meloloskan diri dengan melobangi tembok.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Pembagian harta warisan yang tidak adil merupakan akar penyebab terjadinya perpecahan pada keluarga cemara.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Kurang perhatian dari masyarakat untuk penyuluhan tentang penyakit hiv aids dianggap menjadi akar permasalahan yang menyebabkan penularannya tidak dapat dikendalikan hingga kini.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Kemacetan yang sering terjadi di daerah sukapura bandung merupakan hal yang sering terjadi akar penyebab dari semua itu adalah rendahnya kesadaran pengendara yang terlalu egois.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Akar permasalahan demo yang terjadi terhadap taksi online adalah mulai mengurangnya penghasilan supir taksi umum yang biasanya bisa mendapat penghasilan lebih dari sebelumnya.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Akar dari penyakit kanker bisa di basmi dengan pengobatan herbal secara rutin.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Rambut bisa tumbuh panjang tebal kuat dan bersinar apabila kita menggunakan produk yang bisa merawat dari akar rambut hingga ujung.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Kutil bisa dihilangkan dari bagian tubuh hingga akar dengan menggunakan cairan tumbuhan alami dari korea.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Ketombe biasanya menempel di bagian kulit kepala namun tidak sampai ke akar rambut.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Gigi yang berlubang apabila tidak segera ditangani akan membuat kepala merasa pusing berat, sebaiknya bila di anjurkan oleh dokter lebih baik apabila gigi tersebut dicabut hingga ke akar.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Akar merupakan bagian anggota tubuh yang penting dari tumbuhan.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Singa memiliki rambut yang lebat dengan akar rambut yang sangat kuat hingga sult untuk dicabut.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Kita tidak akan dapat melihat akar dari penis Anda tertanam dalam pelvis dan menempel pada tulang pubis.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Ada produk tertentu yang dapat mencabut bulu ketiak hingga ke akar dengan mudah.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Sebaiknya jangan mencabut kumis di karenakan akar dari kumis bisa saja tehubung langsung dengan saraf yang ada pada bagian daerah mulut.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Sinar ultra x dapat menghilangkan bulu pada bagian tubuh dari akar sehingga bulu yang sudah di sinar ultra x tidak dapat tumbuh lagi.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Bau badan bisa timbul akibat sekresi dari kelenjar keringat apokrin yang berada di sekitar akar rambut, seperti akar rambut pada ketiak.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Gigi yang sehat berwarna putih dan memiliki akar yang kuat.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Namun Johnson menyarankan untuk memakai conditioner pada seluruh bagian rambut, dari akar hingga ujung.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Salah satu metode operasi pembesaran penis adalah dengan cara memotong ligamen yang menyokong akar organ seks ini di dalam pelvis.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Bulu hidung akan sulit dihilangkan apabila kita tidak mencabutnya sampai ke akar.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Penyakit berbahaya seperti kanker harus dihilangkan sampai ke akar.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Pada bulu tangan bisanya terdapat bulu yang lebih kecil dan akar yang lebih kecil dari akar pada bagian tubuh lainnya.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Melanoma subungual lebih sulit hilang karena berada dalam akar kuku dan menjalar sampai ke ujungnya.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Meski sering mencukurnya, akar bulu yang ada dalam kulit ketiak tetap memberikan kesan gelap.",
+        "sense": "akar-3"
+      },
+      {
+        "text": "Penjumlahan yang berbentuk akar dapat diselesaikan dengan tehnik tertentu.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "PhotoMath sejauh ini bisa mengenali dan menyelesaikan soal pembagian, akar dan pangkat, hingga ekspresi aritmatika dasar dan penghitungan linear sederhana.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Akar perdebatan Matematika ini bisa jadi adalah kebiasaan untuk hanya menerima pengertian tunggal, ditetapkan oleh penguasa.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Suatu produk telepon gengam dilengkapi aplikasi kalkulasi matemetika yang bisa menyelesaikan perhitungan akar.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Kalkulator matematika ada yang tidak bisa menyelesaikan penghitungan masalah akar.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Rein Tageepara dalam teorinya, the cube root of population, menawarkan rumus matematis akar pangkat tiga dari jumlah penduduk dalam menentukan jumlah kursi DPR.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Mata kuliah kalkulus kali ini membahas masalah perhitungan yang berbentuk akar.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Akar pangkat empat merupakan kalkulasi perhitungan yang cukup rumit untuk di selesaikan.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Perhitungan aljabar linier kebanyakan menggunakan perhitungan akar.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Menyederhanakan akar kuadrat sebenarnya tidak sesulit kelihatannya.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Tujuan menyederhanakan akar kuadrat adalah menuliskannya dalam bentuk yang mudah dipahami dan digunakan dalam soal matematika.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Fungsi akar kuadrat sebenarnya merupakan invers fungsi dari fungsi kuadrat sehingga grafiknya juga terlihat seperti sebuah setengah parabola pada sisinya.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Operasi aljabar pada bentuk akar merupakan operasi dalam bentuk penjumlahan, pengurangan ,perkalian maupun pembagian dalam bentuk akar yang digunakan untuk menyederhanakan bentuk akar.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Di masa sekarang ini mempelajari rumus akar pada matematika dapat kita lihat penyelesainnya di internet maupun tutorial di youtube.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Rumus akar matematika biasanya digunakan untuk melakukan penghitungan jumlah keramik pada bangunan.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Soal penjumlahan berbentuk akar kuadarat empat.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Akar sepuluh adalah dua akar lima.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Akar dari seratus adalah bilangan sepuluh.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Rumus akar dan nilai faktorial.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Memecakan permasalahan matematika dengan rumus akar kuadarat.",
+        "sense": "akar-4"
+      },
+      {
+        "text": "Sederhananya, tikus itu disebut tikus akar.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tanaman yang bernama akar wangi dapat mengusir nyamuk.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Akar serabut dari pohon kelapa.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Pohon beringin berjenis akar gantung.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Koruptor merupakan tikus akar yang mengrogoti uang negara.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Akar tunggang umumnya dimiliki oleh tumbuhan dikotil yang diperbanyak secara generatif dengan biji.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Tikus akar biasanya memakan akar tumbuhan.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Bagaimana cara membereskan akar masalah tersebut.",
+        "sense": "akar-2"
+      },
+      {
+        "text": "Tikus akar menjadi satu-satunya binatang yang masuk dalam daftar 10 temuan binatang dan tanaman paling penting selama 12 bulan terakhir.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Mitos Enteng Jodoh di Jembatan Akar Painan.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Akar benalu untuk mengisap air serta zat makanan dari tanaman (pohon) tumpangan.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Jembatan Akar Bayang ini terletak di Kampung Pulut-Pulut.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tumbuhan jenis ini memiliki akar tunggang tanpa percabangan atau hanya sedikit bercabang.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Jeruk memiliki akar yang berjenis akar tunggang.",
+        "sense": "akar-1"
+      },
+      {
+        "text": "Tikus Akar dijumpai di Indonesia, Malaysia, Burma, dan Thailand.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tikus akar ini memiliki panjang sekitar 30 cm termasuk ekornya dan berat sekitar 40 gram.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tikus akar adalah genus ketiga dan spesies keempat serta masuk dalam golongan cecurut yang ditemukan di Pulau Sulawesi.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tikus akar adalah spesies yang sangat unik.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tikus akar bisa memakan daging maupun memakan tumbuhan.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Tikus akar memakan akar dengan cara mengrogotinya.",
+        "sense": "akar-5"
+      },
+      {
+        "text": "Secara genetik, tikus yang memiliki hubungan kekerabatan terdekat dengan tikus akar adalah tikus air atau Waiomys mamasae.",
+        "sense": "akar-5"
+      }
+    ]
+  },
+  {
+    "POS":"",
+    "testcase":[
+      {
+        "text":"",
+        "sense":""
+      }
+    ]
+  },
+  {
+    "POS":"",
+    "testcase":[
+      {
+        "text":"",
+        "sense":""
+      }
+    ]
+  },
+  {
+    "POS":"",
+    "testcase":[
+      {
+        "text":"",
+        "sense":""
+      }
+    ]
+  },
+  {
+    "POS":"",
+    "testcase":[
+      {
+        "text":"",
+        "sense":""
+      }
+    ]
+  },
+  {
+    "POS":"",
+    "testcase":[
+      {
+        "text":"",
+        "sense":""
+      }
+    ]
+  }
+]

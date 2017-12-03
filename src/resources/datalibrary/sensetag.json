@@ -1,0 +1,238 @@
+[
+  {
+    "POS":"bintang",
+    "sense":
+    [
+      {
+        "name":"bintang-1",
+        "description":"Benda langit terdiri atas gas menyala seperti matahari, terutama tampak pada malam hari: pada malam itu tampak -- bertaburan di langit."
+      },
+      {
+        "name":"bintang-2",
+        "description":"Tanda jasa yang berupa medali emas (perak dan sebagainya): karena jasanya beliau dianugerahi -- emas."
+      },
+      {
+        "name":"bintang-3",
+        "description":"Planet atau gugusan planet yang menjadi pegangan dalam astrologi untuk menentukan nasib seseorang; rasi."
+      },
+      {
+        "name":"bintang-4",
+        "description":"Tanda pangkat perwira militer berbentuk seperti bintang, berwarna keemasan."
+      },
+      {
+        "name":"bintang-5",
+        "description":"Pemain yang terkemuka (dalam film, sandiwara)."
+      }
+    ]
+  },
+  {
+    "POS":"lapangan",
+    "sense":
+    [
+      {
+        "name":"lapangan-1",
+        "description":"Tempat atau tanah yang luas (biasanya rata); alun-alun; medan: ~ bola; ~ hijau; ~ perang; ~ terbang."
+      },
+      {
+        "name":"lapangan-2",
+        "description":"Tempat (gelanggang) pertandingan (bulutangkis, bola voli, bola basket): beberapa kali pukulannya salah dan bola keluar ~."
+      },
+      {
+        "name":"lapangan-3",
+        "description":"Bidang (pekerjaan, pengetahuan, dan sebagainya): bekerja di ~ pendidikan."
+      }
+    ]
+  },
+  {
+    "POS":"kursi",
+    "sense":
+    [
+      {
+        "name":"kursi-1",
+        "description":"Tempat duduk yang berkaki dan bersandaran."
+      },
+      {
+        "name":"kursi-2",
+        "description":"Kedudukan, jabatan (dalam parlemen, kabinet, pengurus, dan sebagainya): ia terpilih menduduki -- ketua."
+      }
+    ]
+  },
+  {
+    "POS":"darah",
+    "sense":
+    [
+      {
+        "name":"darah-1",
+        "description":"Cairan terdiri atas plasma, sel-sel merah dan putih yang mengalir dalam pembuluh darah manusia atau binatang: dahinya yang terluka berlumuran --."
+      },
+      {
+        "name":"darah-2",
+        "description":"Keturunan: ia masih ada pertalian -- denganku."
+      },
+      {
+        "name":"darah-3",
+        "description":"Bakat; pembawaan: pelukis itu memiliki -- seni;bagai menakik -- mati dari alu (bagai menakik -- mati dari batu), pb bekerja keras tetapi sedikit hasilnya."
+      }
+    ]
+  },
+  {
+    "POS":"kepala",
+    "sense":
+    [
+      {
+        "name":"kepala-1",
+        "description":"Bagian tubuh yang di atas leher (pada manusia dan beberapa jenis hewan merupakan tempat otak, pusat jaringan saraf, dan beberapa pusat indra): mayat wanita itu ditemukan tanpa --."
+      },
+      {
+        "name":"kepala-2",
+        "description":"Bagian tubuh yang di atas leher tempat tumbuhnya rambut: -- nya botak."
+      },
+      {
+        "name":"kepala-3",
+        "description":"Bagian suatu benda yang sebelah atas (ujung, depan, dan sebagainya): -- tongkat."
+      },
+      {
+        "name":"kepala-4",
+        "description":"Bagian yang terutama (yang penting, yang pokok, dan sebagainya): -- lakon."
+      },
+      {
+        "name":"kepala-5",
+        "description":"Pemimpin; ketua (kantor, pekerjaan, perkumpulan, dan sebagainya): -- pasukan."
+      },
+      {
+        "name":"kepala-6",
+        "description":"Otak (pikiran, akal, budi): jika kita masih punya -- , kita harus diberi jatah satu kilogram gula;diberi -- hendak bahu, pb diberi sedikit lalu minta banyak; tak tentu -- ekornya, pb tak tentu ujung pangkalnya; -- sama hitam (berbulu), pendapat berlain-lain, pb tiap orang berlain-lain pendapatnya; sakit -- panjang rambut, patah selera banyak makan, pb lahirnya tidak suka, tetapi sebenarnya suka sekali."
+      }
+    ]
+  },
+  {
+    "POS":"daun",
+    "sense":
+    [
+      {
+        "name":"daun-1",
+        "description":"Bagian tanaman yang tumbuh berhelai-helai pada ranting (biasanya hijau) sebagai alat bernapas dan mengolah zat makanan."
+      },
+      {
+        "name":"daun-2",
+        "description":"Bagian barang yang tipis lebar (seperti -- dayung; -- jendela; -- pintu)."
+      },
+      {
+        "name":"daun-3",
+        "description":"Memperoleh nasib baik; menanjak; selalu menang atau selalu mendatangkan untung: hasil laut yg kini lagi naik -- sbg komoditas ekspor ialah rumput laut."
+      }
+    ]
+  },
+  {
+    "POS":"akar",
+    "sense":
+    [
+      {
+        "name":"akar-1",
+        "description":"Bagian tumbuhan yang biasanya tertanam di dalam tanah sebagai penguat dan pengisap air serta zat makanan: ~ pohon ini dapat dibuat obat."
+      },
+      {
+        "name":"akar-2",
+        "description":"Asal mula; pokok; pangkal; yang menjadi sebab(-sebabnya): yang perlu dibasmi adalah -- segala kejahatan."
+      },
+      {
+        "name":"akar-3",
+        "description":"Bagian tubuh makhluk hidup: ~ gigi."
+      },
+      {
+        "name":"akar-4",
+        "description":"Suatu operasi aljabar, yang biasanya dinyatakan dengan simbol ?, misalnya (akar a sama dengan b), berarti; b2 = a, jadi (akar pangkat _n dari _a sama dengan _c), berarti cn = a."
+      },
+      {
+        "name":"akar-5",
+        "description":"Sebuah panggilan (nama, jenis): tikus --."
+      }
+    ]
+  },
+  {
+    "POS":"buah",
+    "sense":
+    [
+      {
+        "name":"buah-1",
+        "description":"Bagian tumbuhan yang berasal dari bunga atau putik (biasanya berbiji): pohon mangga itu banyak -- nya."
+      },
+      {
+        "name":"buah-2",
+        "description":"Kata penggolong bermacam-macam benda: dua -- kapal; se -- negeri; dua -- rencana."
+      },
+      {
+        "name":"buah-3",
+        "description":"Pokok; bahan: -- percakapan."
+      },
+      {
+        "name":"buah-4",
+        "description":"Hasil: -- jerih payahnya kini dapat dinikmati oleh keturunannya;-- manis berulat di dalamnya, pb perkataan yang manis-manis biasanya mengandung maksud yang kurang baik; sebab -- dikenal pohonnya, pb dari perbuatan atau perangai seseorang dapat diketahui asalnya."
+      },
+      {
+        "name":"buah-5",
+        "description":"Nama panggilan (nama orang, jalan, tempat): -- batu."
+      },
+      {
+        "name":"buah-6",
+        "description":"Anggota suatu kelompok yang tingkatannya berada di bawah pimpinan: anak --."
+      }
+    ]
+  },
+  {
+    "POS":"batang",
+    "sense":
+    [
+      {
+        "name":"batang-1",
+        "description":"Bagian tumbuhan yang berada di atas tanah, tempat tumbuhnya cabang dan ranting (pada tumbuhan berkeping satu tempat melekatnya pelepah daun)."
+      },
+      {
+        "name":"batang-2",
+        "description":"Benda yang bentuknya panjang-panjang atau bulat panjang: -- emas; -- besi."
+      },
+      {
+        "name":"batang-3",
+        "description":"Tangkai (bunga, cendawan, dayung, dan sebagainya): -- cendawan."
+      },
+      {
+        "name":"batang-4",
+        "description":"Bagian tubuh yang berbentuk bulat panjang: -- leher; -- lengan."
+      },
+      {
+        "name":"batang-5",
+        "description":"Kata penggolong bilangan bagi benda yang bentuknya panjang-panjang: pensil dua --."
+      },
+      {
+        "name":"batang-6",
+        "description":"Kata penggolong untuk sungai: di tempat itu mengalir se -- sungai."
+      },
+      {
+        "name":"batang-7",
+        "description":"Rangka sepeda kecuali roda: sepeda ini -- nya baik sekali."
+      },
+      {
+        "name":"batang-8",
+        "description":"Sungai: -- Antokan;membangkit -- terendam, pb mengadakan (memunculkan) sesuatu yang telah lama hilang (seperti mengangkat penghulu yang telah lama tidak ada); menggolek -- terguling, pb melakukan pekerjaan yang mudah."
+      }
+    ]
+  },
+  {
+    "POS":"bulan",
+    "sense":
+    [
+      {
+        "name":"bulan-1",
+        "description":"benda langit yang mengitari bumi, bersinar pada malam hari karena pantulan sinar matahari: pesawat antariksa Apollo berhasil mendarat di --; bumi bermandikan cahaya --."
+      },
+      {
+        "name":"bulan-2",
+        "description":"Masa atau jangka waktu perputaran bulan mengitari bumi dari mulai tampaknya bulan sampai hilang kembali (29 atau 30 hari); masa yang lamanya 1/12 tahun: penataran itu berlangsung selama dua --; istrinya sedang hamil empat --."
+      },
+      {
+        "name":"bulan-3",
+        "description":"Kiasan atau pribahasa: -- jatuh dalam ribaan, ki mendapat untung besar; bagai -- kesiangan, pb pucat dan lesu; bagai -- dengan matahari, pb sebanding; sesuai."
+      }
+    ]
+  }
+]
